@@ -1,0 +1,21 @@
+.ProfileImg{
+    height: 200px;
+    width:200px;
+    border-radius: 60px;
+}
+.Name{
+    font-size: 35px;
+    color: brown
+}
+.course{
+    font-size: 24px;
+}
+.textSection{
+    padding-top:30px;
+}
+.Desc{
+    padding-top: 20px;
+}
+.mcdaSection{
+    padding-top: 30px;
+}
